@@ -1,3 +1,5 @@
+文章链接：https://mp.weixin.qq.com/s?__biz=MzI4OTQxNjU2Mw==&mid=2247483973&idx=1&sn=e5f1fc8141993bedab4968cff9ac50d2&chksm=ec2e3659db59bf4f6dd2c8346980c96dacb99e01d518c233b20278c2f5de6b672e37d632bf88&token=829399530&lang=zh_CN#rd
+
 导读：直接上干货，爬取抖音小姐姐视频列表，并去水印下载（仅供学习使用，不做商业用途，如有侵权，联系作者删除）；接18年初，Python基础篇更新。
 
 比如我想获取抖音网红“惠子”小姐姐的主页列表视频，第一步在抖音上打开惠子的主页，右上角点击一下，可以看到一个分享按钮，点击分享，找到复制链接->  http://v.douyin.com/9GEGSp/ 。把链接放到浏览器中短链接被自动解析，变成长链接：
